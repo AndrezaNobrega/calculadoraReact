@@ -2,11 +2,15 @@
 
 
 Temas estudados no projetos:
-Estruturação baseada em componentes no react
-React
-Estilização CSS
-Variáveis no CSS
+ - Estruturação baseada em componentes
+ 
+- React
 
-#Resultado do projeto
+- Estilização CSS
+
+- Variáveis no CSS
+
+## Resultado do projeto
+
 ![alt text](https://media.discordapp.net/attachments/975905192069435395/1061743725946077354/image.png?width=758&height=426)
 
